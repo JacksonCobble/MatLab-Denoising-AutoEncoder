@@ -1,1 +1,5 @@
 matlab denoising autoencoder
+
+run test_load data to load and make datasets
+
+run analysis to get plots and figures from pre trained nets
